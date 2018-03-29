@@ -1,0 +1,1 @@
+jupyter notebook dog_app.ipynb --ip 0.0.0.0 --no-browser --allow-root
